@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python: List Comprehension
+title: Python List Comprehension
 categories: [Python]
 tags: [python]
 ---
