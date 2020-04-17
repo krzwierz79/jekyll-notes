@@ -20,15 +20,15 @@ avatar: https://raw.githubusercontent.com/krzysiekwie/krzysiekwie.github.io/mast
 footer-links:
   dribbble:
   email: krzwierz79@gmail.com
-  facebook:
+  facebook: krzysiek.wie
   flickr: wiekszy
   github: krzysiekwie
-  instagram:
-  linkedin:
+  instagram: wkadruje
+  linkedin: krzysiekwie
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  rss: rss # just type anything here for a working RSS icon
+  twitter: krzysiekwie
+  stackoverflow: users/5573978/kwie # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -38,7 +38,7 @@ footer-links:
 disqus: krzysiekwie-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-163773670-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
