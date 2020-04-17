@@ -3,7 +3,7 @@ layout: post
 title: Got best practices
 ---
 
-# Git Best practices for Collaboration
+## Git Best practices for Collaboration
 
 Always sync branches before starting new work
 
