@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Got best practices
+title: Git best practices
 ---
 
 ## Git Best practices for Collaboration
