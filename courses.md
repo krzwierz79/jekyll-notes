@@ -14,6 +14,9 @@ Series of 6 Python scripting courses:<br>
 [Python and the Operating System](https://www.coursera.org/learn/python-operating-system/home/welcome)<br>
 [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github/home/welcome)<br>
 
+[Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/welcome)<br>
+
+
 [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow/home/welcome)<br>
 [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/home/welcome)<br>
 
@@ -28,21 +31,20 @@ Harvard CS50
 
 
 #### by 2020-04-27
-[Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills/home/welcome)<br>
 [Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics/home/welcome)<br>
 
 [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure/home/welcome)<br>
 
-[Design: Creation of Artifacts in Society](https://www.coursera.org/learn/design/home/welcome)<br>
-[The Language of Design: Form and Meaning](https://www.coursera.org/learn/design-language/home/welcome)<br>
-
-[The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being/home/welcome)<br>
 
 #### by 2020-05-04
 [Marketing Analytics](https://www.coursera.org/learn/uva-darden-market-analytics/home/welcome)<br>
 
 [Build Your First Android App](https://www.coursera.org/learn/android-app/home/welcome)<br>
 [Machine Learning for Business Profesionals](https://www.coursera.org/learn/machine-learning-business-professionals/home/welcome)<br>
+
+[The Language of Design: Form and Meaning](https://www.coursera.org/learn/design-language/home/welcome)<br>
+[Design: Creation of Artifacts in Society](https://www.coursera.org/learn/design/home/welcome)<br>
+
 
 [Communication Strategies for a Virtual Age](https://www.coursera.org/learn/communication-strategies-virtual-age/home/welcome)<br>
 
@@ -54,6 +56,7 @@ Harvard CS50
 #### by 2020-05-25
 
 #### by 2020-06-01
+[The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being/home/welcome)<br>
 
 #### by 2020-06-22
 
