@@ -19,8 +19,14 @@ Series of 6 Python scripting courses:<br>
 
 [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow/home/welcome)<br>
 [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning/home/welcome)<br>
+[Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure/home/welcome)<br>
+[Machine Learning for Business Profesionals](https://www.coursera.org/learn/machine-learning-business-professionals/home/welcome)<br>
+
+[Marketing Analytics](https://www.coursera.org/learn/uva-darden-market-analytics/home/welcome)<br>
 
 [De-Mystifying Mindfulness](https://www.coursera.org/learn/mindfulness/home/welcome)
+
+
 
 
 ### EdX
@@ -30,17 +36,12 @@ Harvard CS50
 ### Courses I'm doing/reviewing/translating ATM
 
 
-#### by 2020-04-27
+#### by 2020-05-04
 [Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics/home/welcome)<br>
 
-[Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure/home/welcome)<br>
-
-
-#### by 2020-05-04
-[Marketing Analytics](https://www.coursera.org/learn/uva-darden-market-analytics/home/welcome)<br>
 
 [Build Your First Android App](https://www.coursera.org/learn/android-app/home/welcome)<br>
-[Machine Learning for Business Profesionals](https://www.coursera.org/learn/machine-learning-business-professionals/home/welcome)<br>
+
 
 [The Language of Design: Form and Meaning](https://www.coursera.org/learn/design-language/home/welcome)<br>
 [Design: Creation of Artifacts in Society](https://www.coursera.org/learn/design/home/welcome)<br>
