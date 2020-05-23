@@ -5,11 +5,14 @@ categories: [Python]
 tags: [python]
 ---
 
-###all elements
+### all elements
+
 new_list = [element.method() for element in old_list]
 
-###if
+### if
+
 new_list = [element.method() for element in old_list if element = "chosen"]
 
-###if/else
+### if/else
+
 new_list = [element.method() if element != "exception" else element.exception_method() for element in old_list]
