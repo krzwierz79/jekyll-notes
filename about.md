@@ -8,7 +8,7 @@ I'm a translator (MA in linguistics), educator (BA in teaching), an enthusiast p
 
 ### More Information
 
-I'm testing the waters with Jekyll...
+Here I'm testing the waters with Jekyll, [there](https://krzysiekwie.github.io/hugonotes/) I'm using less English and more Polish, with Hugo (looks like I might be moving on to Hugo or Gatsby soon and abandon this site)
 
 ### Contact me
 
